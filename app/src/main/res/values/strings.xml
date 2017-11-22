@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">I Am Poor</string>
+    <string name="Text">I am</string>
+    <string name="Text2">Poor!</string>
+    <string name="Pic_Name">Main Pic</string>
+
 </resources>
